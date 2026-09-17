@@ -1,0 +1,4 @@
+strings can change the memory allocated to them while the code is being runned.
+only mutable variables can be modified in the code.
+variables like strings are read character by character using the function 'sentence.chars()'.
+println! and print! are different: using ln the next line of code starts from a new line.
